@@ -52,7 +52,12 @@ pre {
   padding: 10px;
 }
 
-/* navbar styling */
+.hidden {
+  visibility: hidden;
+  height: 0;
+}
+
+/* Navbar styling */
 .navbar {
   background-color: var(--primary-color);
   color: #fff;
